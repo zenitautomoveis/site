@@ -377,7 +377,7 @@
       border-bottom-right-radius: 3px; }
   .typefooter-3 .row-bottom {
     position: relative;
-    padding: 40px 0; }
+    padding: 10px 0; }
   .typefooter-3 .row-bottom:before {
     content: '';
     display: block;
